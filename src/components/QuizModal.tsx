@@ -118,7 +118,7 @@ export const QuizModal: React.FC<QuizModalProps> = ({ isOpen, onClose, entries }
           const options = [entry.meaningVi, ...distractors].sort(() => 0.5 - Math.random());
           generated.push({
             type: 'Từ vựng & Cụm từ',
-            sentence: `Ý nghĩa chuẩn xác của "${entry.title}" trong đề thi TOEIC là gì?`,
+            sentence: `Ý nghĩa chuẩn xác của "${entry.title}" là gì?`,
             translation: entry.meaningEn || '',
             correctAnswer: entry.meaningVi,
             options: options,
