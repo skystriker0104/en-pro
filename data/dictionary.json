@@ -1,0 +1,150 @@
+[
+  {
+    "id": "entry-1794211409815",
+    "category": "grammar",
+    "title": "Communicate",
+    "phonetic": "",
+    "partOfSpeech": "verb",
+    "meaningVi": "giao tiếp",
+    "meaningEn": "",
+    "meanings": [
+      {
+        "partOfSpeech": "verb",
+        "meaningVi": "giao tiếp",
+        "meaningEn": ""
+      }
+    ],
+    "formula": "communicate with sb",
+    "components": "",
+    "businessContext": "",
+    "toeicTip": "",
+    "collocations": [],
+    "synonyms": [],
+    "wordFamily": [],
+    "examples": [],
+    "favorite": false,
+    "mastered": false,
+    "reviewCount": 0,
+    "lastReviewed": "2026-11-09",
+    "updatedAt": "2026-11-09T08:03:29.816Z"
+  },
+  {
+    "id": "entry-1794210783518",
+    "category": "vocabulary",
+    "title": "reluctant",
+    "phonetic": "/ɹɪˈlʌktənt/",
+    "partOfSpeech": "adj",
+    "meaningVi": "miễn cưỡng",
+    "meaningEn": "Opposing; offering resistance (to).",
+    "meanings": [
+      {
+        "partOfSpeech": "adj",
+        "meaningVi": "miễn cưỡng",
+        "meaningEn": "Opposing; offering resistance (to)."
+      }
+    ],
+    "formula": "Be reluctant to do st",
+    "components": "",
+    "businessContext": "",
+    "toeicTip": "",
+    "collocations": [],
+    "synonyms": [
+      "disinclined",
+      "unwilling",
+      "refractory"
+    ],
+    "wordFamily": [
+      {
+        "pos": "n",
+        "word": "reluctance",
+        "meaning": ""
+      },
+      {
+        "pos": "adv",
+        "word": "reluctantly",
+        "meaning": ""
+      }
+    ],
+    "examples": [
+      {
+        "en": "She was reluctant to lend him the money",
+        "vi": "Cô ấy miễn cưỡng cho anh ta mượn tiền"
+      }
+    ],
+    "favorite": false,
+    "mastered": false,
+    "reviewCount": 0,
+    "lastReviewed": "2026-11-09",
+    "updatedAt": "2026-11-09T08:00:03.296Z"
+  },
+  {
+    "id": "entry-1794209077676",
+    "category": "vocabulary",
+    "title": "streamline",
+    "phonetic": "",
+    "partOfSpeech": "noun, verb",
+    "meaningVi": "dòng nước",
+    "meaningEn": "A line that is tangent to the velocity of flow of a fluid; equivalent to the path of a specific particle in that flow.",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "meaningVi": "dòng nước",
+        "meaningEn": "A line that is tangent to the velocity of flow of a fluid; equivalent to the path of a specific particle in that flow."
+      },
+      {
+        "partOfSpeech": "verb",
+        "meaningVi": "sắp xếp hợp lý",
+        "meaningEn": "To design and construct the contours of a vehicle etc. so as to offer the least resistance to its flow through a fluid."
+      }
+    ],
+    "formula": "",
+    "components": "",
+    "businessContext": "",
+    "toeicTip": "",
+    "collocations": [],
+    "synonyms": [],
+    "wordFamily": [],
+    "examples": [],
+    "favorite": false,
+    "mastered": false,
+    "reviewCount": 0,
+    "lastReviewed": "2026-11-09",
+    "updatedAt": "2026-11-09T07:50:31.786Z"
+  },
+  {
+    "id": "entry-1794208655774",
+    "category": "vocabulary",
+    "title": "productive",
+    "phonetic": "",
+    "partOfSpeech": "adj",
+    "meaningVi": "Hiệu quả",
+    "meaningEn": "",
+    "toeicPart": "Part 5",
+    "topic": "Contracts & Business",
+    "band": "650+",
+    "formula": "",
+    "components": "",
+    "businessContext": "",
+    "toeicTip": "",
+    "collocations": [],
+    "synonyms": [],
+    "wordFamily": [
+      {
+        "pos": "n",
+        "word": "product",
+        "meaning": ""
+      },
+      {
+        "pos": "v",
+        "word": "produce",
+        "meaning": ""
+      }
+    ],
+    "examples": [],
+    "favorite": false,
+    "mastered": false,
+    "reviewCount": 0,
+    "lastReviewed": "2026-11-09",
+    "updatedAt": "2026-11-09T07:17:35.792Z"
+  }
+]
